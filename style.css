@@ -1,0 +1,44 @@
+body{
+    background-color: aquamarine;
+    width: auto;
+    margin: 15px;
+}
+
+.logoimg{
+    margin: 5px;
+}
+
+.container-1{
+    background-color: blueviolet;
+    margin: 13px;
+    width: auto;
+}
+
+.containertitle{
+    background-color: brown ;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.container-1-2{
+    background-color: bisque;
+    margin: 3px;
+    width: auto;
+}
+
+.container-1-2-1{
+    max-width: 690px;
+    display: flex;
+    background-color: gray;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+ .carimg{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 3px;
+ }
